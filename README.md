@@ -1,7 +1,7 @@
 # gamb13
 Probabilistic Adrenaline 
 
-Brainstorm:
+### Brainstorm:
 - Enter name to Submit score
 - E(V) 
 - Var: 
@@ -18,4 +18,9 @@ Brainstorm:
 - Then: a live trading game w/ the chart and you have to 
 - 5 gamemodes max
 - And then ’Tishagi’s Temple’ where you do all 5 in one run. But it’s like a live trading sim and (ASCII castle) 
-- At the end: a 0 E(X) thing where it’s like 0.25 chance to x4 
+- At the end: a 0 E(X) thing where it’s like 0.25 chance to x4
+- 10 different summary types based on dictionairy mapping.
+- Quantify risk aversion
+- quantiy mental arithmetic score
+- Quantify probability etc...
+- make super simple, coherent, flow
