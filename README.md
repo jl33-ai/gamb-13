@@ -26,4 +26,5 @@ Probabilistic Adrenaline
 - Quantify probability etc...
 - make super simple, coherent, flow
 - Make it accessible
-- Always ends with a 1/13 chance of losing everything, for 2x portfolio (obviously positive E(V) but a test of rationality) 
+- Always ends with a 1/13 chance of losing everything, for 2x portfolio (obviously positive E(V) but a test of rationality)
+- Exploration of random number generator. Uniform -> distribution (memorise)
