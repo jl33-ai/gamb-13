@@ -10,7 +10,8 @@ Probabilistic Adrenaline
 - Random charts (ASCII) 
 - Poker moments of pure chance 
 - Raise the odds by answering mental arithmetic ie 
-- Like the optiv one 
+- Like the optiv one
+- The market is raising 15 mod 4 points 
 - Make it more addictive
 - Risk Aversion quantifier
 - Games: blackjack, where you just wanna go as high as possible (could show a physical representation), and the uniform distritbution that it comes from. Same game, but the numbers are sampled from a normal 
