@@ -1,4 +1,4 @@
-# gambl13
+# gamb13
 Probabilistic Adrenaline 
 
 Brainstorm:
