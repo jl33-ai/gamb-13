@@ -1,14 +1,22 @@
 # gamb13
 Probabilistic Adrenaline 
 
-### Brainstorm:
+### Brainstorm 🧠:
 - Enter name to Submit score
-- E(V) (primary ranking)
-- Var: (secondary ranking and attached to every E(V))
+  - E(V) (primary ranking)
+  - Var: (secondary ranking and attached to every E(V))
 - Math Q’s…
+- Graphing mechanism: simply an time series where the next things are being continually generated based on parameters, the grapher plots a specific interval of it (n-50 to n)
+- The parameters which influence the movement price at time n+1
+  - Seasonal trends
+  - Player input (through minigames etc) 
+  - Randomness
+    - News
 - you get bonuses based on how quickly you can type out the answer '34' , or maybe like a sequence of 3. time taken: 12.39s,
 - Loss minimisation, high pressure, screen flashing, your portfolio starts crashing crashing crashing and you have to answer math/logic questions quickly to stop it from doing so (stops crashing once you get X correct)
+- Social media feed
 - Global leaderboard - playerID
+- Try to it low variance (less sensitive to just having a lucky run and as skill based as possible - like gambling) 
 - Random charts (ASCII) - need a really good engine for this; and then the engine which determines the t+1 direction
 - Raise the odds by answering mental arithmetic ie 
 - Like the optiv one
