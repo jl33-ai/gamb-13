@@ -3,7 +3,8 @@ Probabilistic Adrenaline
 
 ### Brainstorm 🧠:
 - I just realised this won’t work, if there’s only a positive incentive for high E(V) and no consequence for low E(V), people are just gonna… ah.
-  - Must be averaged over every run from a given player. So it's truly E(V) - maybe a practice mode. 
+  - Must be averaged over every run from a given player. So it's truly E(V) - maybe a practice mode.
+  - It needs that one genuinely special, addictive **thing**. 
 
 - Enter name to Submit score
   - E(V) (primary ranking)
