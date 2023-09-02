@@ -1,4 +1,4 @@
-# gamb13
+# gamb-13
 Probabilistic Adrenaline 
 
 ### Brainstorm 🧠:
@@ -6,6 +6,8 @@ Probabilistic Adrenaline
   - E(V) (primary ranking)
   - Var: (secondary ranking and attached to every E(V))
 - Math Q’s…
+- fun, simple betting games
+- Bitcoin on the line. 
 - Graphing mechanism: simply an time series where the next things are being continually generated based on parameters, the grapher plots a specific interval of it (n-50 to n)
 - The parameters which influence the movement price at time n+1
   - Seasonal trends
@@ -14,7 +16,8 @@ Probabilistic Adrenaline
     - News
 - you get bonuses based on how quickly you can type out the answer '34' , or maybe like a sequence of 3. time taken: 12.39s,
 - math q's/raw intuition, logic/approximations and you get to bet a % of your portfolio on it.
-- which square flashed green? 
+- which square flashed green?
+- Blender Render
 - Loss minimisation, high pressure, screen flashing, your portfolio starts crashing crashing crashing and you have to answer math/logic questions quickly to stop it from doing so (stops crashing once you get X correct)
 - Social media feed
 - Global leaderboard - playerID
