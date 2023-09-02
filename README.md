@@ -31,6 +31,7 @@ Probabilistic Adrenaline
 - Like the optiv one
 - The market is raising 15 mod 4 points 
 - Make it more addictive
+- How many (random statistics) however close you are is your multiplier
 - random news with a (hidden) associated influence
 - - Games: blackjack, where you just wanna go as high as possible (could show a physical representation), and the uniform distritbution that it comes from. Same game, but the numbers are sampled from a normal 
 - Then: Poker, where you can trade your current pot w/ bots who have the same amount as you +/- some random amount
