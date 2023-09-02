@@ -13,6 +13,8 @@ Probabilistic Adrenaline
   - Randomness
     - News
 - you get bonuses based on how quickly you can type out the answer '34' , or maybe like a sequence of 3. time taken: 12.39s,
+- math q's/raw intuition, logic/approximations and you get to bet a % of your portfolio on it.
+- which square flashed green? 
 - Loss minimisation, high pressure, screen flashing, your portfolio starts crashing crashing crashing and you have to answer math/logic questions quickly to stop it from doing so (stops crashing once you get X correct)
 - Social media feed
 - Global leaderboard - playerID
