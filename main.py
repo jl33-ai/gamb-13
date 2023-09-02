@@ -403,15 +403,19 @@ def main(stdscr):
         if h_curr < h_min or w_curr < w_min:
             # Show a live read of the screen size 
             stdscr.addstr(0, 0, "Please resize the window to at least 67 x 212.")
-            stdscr.addstr(1, 0, f"Currently: {h_curr} x {w_curr}         ")
+            stdscr.addstr(1, 0, f"Currently: {h_curr:3} x {w_curr:3}")
+            stdscr.addstr(2, 0, "You may need to use ⌘- / ⌘+")
         else:
+            '''
             # Code to draw your interface here, e.g., draw_box(stdscr, 0, 0, 2, w - 1)
             stdscr.addstr(0, 0, "Window resized successfully. Press 'q' to quit.")
             
             # Listen for 'q' key to break the loop
             key = stdscr.getch()
             if key == ord('q') or key == ord('Q'):
-                break
+            '''
+            break
+        
 
         # Refresh the screen
         stdscr.refresh()
